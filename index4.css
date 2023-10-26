@@ -82,3 +82,7 @@ ul{
     font-style: normal;
     font-weight: 500;
 }
+
+hr{
+    padding-inline: 165px;
+}
