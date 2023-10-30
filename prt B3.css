@@ -1,6 +1,6 @@
 .footer{
     background-color: #E7ECFF;
-    height: fit-content;
+    height: 250px;
     width: 100vw;
   
     
@@ -10,6 +10,7 @@
 
 .class{
     padding-inline: 165px;
+    height: fit-content;
 }
 .copy{
     display: flex;

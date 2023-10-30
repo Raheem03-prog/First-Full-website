@@ -32,8 +32,8 @@ ul{
     gap: 60px;
 
     padding-left: 165px; 
-    padding-top: 12px;
-    padding-bottom: 261px;
+    margin-top: 12px;
+    margin-bottom: 261px;
 
 }
 
@@ -41,16 +41,15 @@ ul{
     border: 0px;
 
     padding-right: 165px;
-    padding-top: 12px;
-    padding-bottom: 205px;
 
-   
+    margin-top: 12px;
+    margin-bottom: 261px;
 }
 
 .land{
 
-    padding-top: 12px;
-    padding-bottom: 261px;
+    margin-top: 12px;
+    margin-bottom: 261px;
 }
 
 .info{
@@ -81,8 +80,4 @@ ul{
     font-size: 12px;
     font-style: normal;
     font-weight: 500;
-}
-
-hr{
-    padding-inline: 165px;
 }
